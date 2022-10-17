@@ -18,5 +18,5 @@ Whenever you will win your score will increase by one and in case computer wins 
 
 ## Future Scope
   - After this you can easily create Andriod applications using kotlin.
-  - In case you want to clone this project 
+  - In case you want to clone this project just paste this command on your terminal
     - git clone https://github.com/Developer-Student-Clubs-BPPIMT/Compose-Camp-Android-App
